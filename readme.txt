@@ -3,3 +3,5 @@ this is the 2nd line
 3rd line
 4th 
 5th
+this is key 
+rm .git/index.lock
