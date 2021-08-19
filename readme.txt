@@ -1,3 +1,5 @@
-Hello Jonathan
-this is the first time I edit a file with nano
-
+hello world this is the first line
+this is the 2nd line
+3rd line
+4th 
+5th
